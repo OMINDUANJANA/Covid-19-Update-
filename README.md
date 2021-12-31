@@ -24,9 +24,9 @@
 
 ### Credits:
 
-- [Jaindu Charindith](https://github.com/jaindu)
-- [Uvindu Bro Co](https://github.com/UvinduBroCo)
+- [Dark Dewil]()
+- [Black Alpha](https://github.com/DarkKingbot/Covid-19-Update-.git)
 
 ### Developers:
 
--  [@UvinduBro](https://t.me/Uvindu_Bro)
+-  [@BlackAlpha](https://github.com/DarkKingbot/Covid-19-Update-.git)
